@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [my website](https://montaanaq.netlify.app)
 
-- 🌱 I’m currently learning **React, Svelte, Angular, Python**
+- 🌱 I’m currently learning **React, Next, Nest, ExpressJS, Svelte and Python**
 
 - 👨‍💻 All of my projects are available at [montaanaq.nelitfy.app](https://montaanaq.nelitfy.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react and python**
 
 - 📫 How to reach me **a.presovsky@list.ru**
 
