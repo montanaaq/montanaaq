@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Next, Nest, ExpressJS, Svelte and Python**
 
-- 👨‍💻 All of my projects are available at [montaanaq.nelitfy.app](https://montaanaq.nelitfy.app)
+- 👨‍💻 All of my projects are available at [https://montaanaq.nelitfy.app](https://montaanaq.nelitfy.app)
 
 - 💬 Ask me about **react and python**
 
