@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my website](https://montaanaq.netlify.app)
 
-- 🌱 I’m currently learning **React, Next, Nest, ExpressJS, Svelte and Python**
+- 🌱 I’m currently learning **React, Next, ExpressJS and Python**
 
 - 👨‍💻 All of my projects are available at [montaanaq.netlify.app](https://montaanaq.netlify.app)
 
