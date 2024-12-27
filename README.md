@@ -1,34 +1,24 @@
-# Hello, I'm Montana
+# Hello there 👋
 
-**A passionate frontend developer from Russia**  
-
-- 🔭 Currently working on [my website](https://montaanaq.netlify.app)  
-- 🌱 Learning **React, Next.js, Express.js, and Python**  
-- 👨‍💻 All my projects are at [montaanaq.netlify.app](https://montaanaq.netlify.app)  
-- 💬 Ask me about **React** or **Python**  
-- 📫 Reach me at [a.presovsky@list.ru](mailto:a.presovsky@list.ru)
+#### A React Frontend Developer by day ☼ and a Python developer by night ☾
 
 ---
 
-### Technologies & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="30" height="30"/>
-</p>
+### About Me
+- **Name:** Montana — a front-end developer from Russia  
+- **Currently Learning:** React, Next.js, Express.js, Python 
+- **Working On:** [My website](https://montaanaq.netlify.app)  
+- **All Projects:** [montaanaq.netlify.app](https://montaanaq.netlify.app)  
+- **Ask Me About:** React, Python  
+- **Contact:** [a.presovsky@list.ru](mailto:a.presovsky@list.ru)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=montanaaq&show_icons=true&hide_border=true" alt="Montana's GitHub stats" />
-</p>
+### I Use Daily
+- `.tsx` • `.jsx` • `.js` • `.html` • `.css` • `.svg` • `.psd` • `.ai`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montanaaq&layout=compact&show_icons=true&hide_border=true" alt="Top Languages" />
-</p>
+### Mostly Active
+- Within the **React Community**
+
+### Ping Me About
+- **Design** • **Branding** • **React** • **Development**
