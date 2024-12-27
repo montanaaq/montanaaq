@@ -1,6 +1,6 @@
 # Hello there 👋
 
-#### A React Frontend Developer by day ☼ and a Python developer by night ☾
+#### A React Frontend Developer by day ☼ and night ☾
 
 ---
 
