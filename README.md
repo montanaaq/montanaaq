@@ -1,6 +1,6 @@
-# Hello, I'm Montana
+# 👋 Hi! I'm Montana
 
-**A passionate frontend developer from Russia**  
+**A passionate frontend react developer from Russia**  
 
 - 🔭 Currently working on [my website](https://montaanaq.netlify.app)  
 - 🌱 Learning **React, Next.js, Express.js, and Python**  
