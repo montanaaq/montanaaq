@@ -2,10 +2,9 @@
 
 **A passionate frontend react developer from Russia**  
 
-- 🔭 Currently working on [my website](https://montaanaq.netlify.app)  
-- 🌱 Learning **React, Next.js, Express.js, and Python**  
-- 👨‍💻 All my projects are at [montaanaq.netlify.app](https://montaanaq.netlify.app)  
-- 💬 Ask me about **React** or **Python**  
+- 🌱 Learning **React, Next.js, C# and .NET**  
+- 👨‍💻 All my projects are at [montaanaq.netlify.app](https://montaanaq.netlify.app) 
+- 💬 Ask me about **React** or **Python**
 - 📫 Reach me at [a.presovsky@list.ru](mailto:a.presovsky@list.ru)
 
 ---
