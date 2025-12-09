@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://montaanaq.netlify.app/](https://montaanaq.netlify.app/)**
 
-- 📄 Know about my experiences **[https://kazan.hh.ru/resume/88061689ff0f93ce000039ed1f456177435772](https://kazan.hh.ru/resume/88061689ff0f93ce000039ed1f456177435772)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/montanaaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="montanaaq" height="30" width="40" /></a>
