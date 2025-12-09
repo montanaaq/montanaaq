@@ -2,10 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=montanaaq&label=Profile views&color=0e75b6&style=flat" alt="montanaaq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montanaaq" alt="montanaaq" /></a> </p>
-
 - 🔭 I'm currently working on **my personal website**
 
 - 🌱 I'm currently learning **Next.js, Vue, C#**
