@@ -1,3 +1,7 @@
+<a href="https://github.com/montaanaq">
+  <img src="./profile-header.png" alt="montaanaq" align="center"/>
+</a>
+
 # Hi 👋, I'm Amir
 
 ### A passionate developer
